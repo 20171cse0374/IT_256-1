@@ -1,3 +1,5 @@
 first github upload
 
 Editing the file in html branch and merging to master branch...
+
+conflict example
